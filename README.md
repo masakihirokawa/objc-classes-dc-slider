@@ -1,4 +1,4 @@
-objc-classes-dc-slider
+DCSlider
 ======================
 
-スライダーを取得する「DCSlider」クラスです。
+Objective-Cで通常のスライダーと画像スライダーを取得する「DCSlider」クラスです。
